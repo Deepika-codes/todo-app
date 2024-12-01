@@ -1,7 +1,7 @@
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import "./Components/style.css";
-import TodoList from "./components/todoList";
+import TodoList from "./components/todoList":
 const App = () => {
   return (
     <div className="container">
